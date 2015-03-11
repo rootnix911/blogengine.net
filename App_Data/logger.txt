@@ -1,0 +1,6 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 3/11/2015 11:36:12 PM
+Utils.Recycle() : Access to the path 'C:\inetpub\blogengine.net\web.config' is denied.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 3/11/2015 11:36:12 PM
+Utils.Recycle() : Access to the path 'C:\inetpub\blogengine.net\web.config' is denied.
